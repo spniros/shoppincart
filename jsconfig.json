@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "checkJs": true,
+    "jsx": "react"
+  },
+  "include": ["src"],
+  "typeAcquisition": {
+    "include": [
+        "jest"
+    ]
+}
+}
